@@ -2,6 +2,7 @@
 The Monty Hall Problem simulator made with Tkinter
 
 Results currently prints to terminal.
+The door picked turns yellow, if the correct door is picked it turns green, if the wrong door is picked it turns red. 
 
 
 
