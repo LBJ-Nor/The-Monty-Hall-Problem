@@ -10,6 +10,6 @@ The door picked turns yellow, if the correct door is picked it turns green, if t
 
 
 Updates to come:
-Code cleanup.
-Visual cosmetics in Tkinter.
-Results printed to the GUI.
+- Code cleanup.
+- Visual cosmetics in Tkinter.
+- Results printed to the GUI.
