@@ -9,6 +9,6 @@ Results currently prints to terminal.
 
 
 Updates to come:
-  Code cleanup
-  Visual cosmetics in Tkinter
-  Results printed to the GUI
+Code cleanup.
+Visual cosmetics in Tkinter.
+Results printed to the GUI.
