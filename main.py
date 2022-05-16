@@ -1,5 +1,13 @@
 """
 Title: The Monty Hall Problem
+Description:
+    Simulator made with Tkinter
+
+ToDo:
+    Some minor tweaking:
+        Code cleanup
+        Cosmetics
+    
 
 """
 
